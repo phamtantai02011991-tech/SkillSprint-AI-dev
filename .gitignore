@@ -1,0 +1,37 @@
+# Thư mục Agents của Antigravity (theo yêu cầu)
+.agents/
+
+# Các file tài liệu nặng (PDF)
+*.pdf
+
+# Frontend (Node.js/React/Vue/Angular)
+node_modules/
+dist/
+build/
+.env
+.env.local
+.DS_Store
+
+# Backend (.NET/C#)
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+appsettings.Development.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Log files
+*.log

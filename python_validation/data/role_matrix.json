@@ -1,0 +1,46 @@
+{
+  "Employee": [
+    {
+      "RequirementID": "REQ-EMP-01",
+      "Policy": "POL-HR-01",
+      "Section": "1.2",
+      "Mandatory": true,
+      "Type": "Must Acknowledge",
+      "Description": "Workplace Conduct Policy"
+    },
+    {
+      "RequirementID": "REQ-EMP-02",
+      "Policy": "POL-IT-03",
+      "Section": "2.0",
+      "Mandatory": true,
+      "Type": "Must Complete",
+      "Description": "Data Privacy & Security Training"
+    },
+    {
+      "RequirementID": "REQ-EMP-03",
+      "Policy": "SOP-GEN-01",
+      "Section": "3.1",
+      "Mandatory": false,
+      "Type": "Recommended",
+      "Description": "Office Tour and Setup"
+    }
+  ],
+  "Admin": [
+    {
+      "RequirementID": "REQ-ADM-01",
+      "Policy": "POL-HR-02",
+      "Section": "4.0",
+      "Mandatory": true,
+      "Type": "Must Demonstrate",
+      "Description": "Document Upload & Processing Procedure"
+    },
+    {
+      "RequirementID": "REQ-ADM-02",
+      "Policy": "POL-IT-05",
+      "Section": "1.5",
+      "Mandatory": true,
+      "Type": "Must Know",
+      "Description": "Admin Access & Security Rights"
+    }
+  ]
+}
